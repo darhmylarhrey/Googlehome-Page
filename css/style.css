@@ -1,0 +1,130 @@
+body{
+	background: white;
+	font-family: arial, sans-serif;   
+}
+
+header{
+	padding-top: 10px;
+	padding-right: 25px;
+	width: 100%;
+}
+
+nav a{
+	float:right;
+	opacity:0.85;
+    color: black;
+    margin-left: 10px;
+    font-size:15px; 
+}
+
+#signin{
+	background-color: #4d90fe;
+	color: #ffffff;
+	padding: 5px 8px;
+	font-weight: bold;
+    border: 1px solid #3079ed;
+    border-radius: 2px;
+}
+
+.container-fluid{
+	text-align:center;
+    margin-top: 140px;   
+}
+
+img{
+width:272px;
+height: 92px;
+  	
+}
+
+.languages  {
+    font-size: 14px;
+}
+.languages a{
+	 color: #1a0dab;
+	 text-decoration: none;
+}
+input{
+	width: 550px;
+	height: 28px;
+	padding:5px 9px;
+	margin-top:20px;  
+}
+
+.button{
+	padding: 30px;
+	font: 30px;
+}
+
+button{
+	border: 1px solid #c6c6c6;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    color: #757575;
+    height: 36px;
+    line-height: 27px;
+    border-radius: 2px;
+    cursor: default;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0px 16px;
+}
+
+
+p{
+margin-top: -25px;
+margin-left: 230px;
+font-size:15px;
+color: blue;	
+}
+
+
+li{
+	list-style: none;
+}
+
+a{
+	text-decoration: none;
+    color: #6f6f6f;
+}
+
+.footer{
+    bottom: 0;
+    font-size: 10pt;
+    height: 35px;
+    position: absolute;
+    width: 100%;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    line-height: 40px;
+    min-width: 980px;
+}
+.footer a{
+	display: inline-block;
+	color: #666;
+	cursor: auto;
+	line-height: 40px;
+	padding-left: 27px;
+    margin: 0 !important;
+
+}
+/*
+.footer a:visited {
+    color: #800099;
+}
+*/
+.footer a:hover {
+    text-decoration: underline;
+}
+
+
+.foot{
+float:right; 	
+}
+
+.foote{
+float: left;	
+}
+
+
